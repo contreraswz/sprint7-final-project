@@ -31,4 +31,5 @@ El proyecto ha sido desarrollado en Python utilizando Jupyter Notebook.
 Puedes ejecutar el análisis directamente en tu navegador haciendo clic en el botón de arriba.
 
 Guía de Reproducción
+
 Es crucial ejecutar en orden ascenden el proyecto, sobre todo es crucial ejecutar las celdas de limpieza de datos antes de realizar cualquier gráfico o cálculo de segmentos, ya que el análisis de outliers y grupos depende de la integridad de los datos limpios.
